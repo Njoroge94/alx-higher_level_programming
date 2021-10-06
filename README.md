@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Learning Python at Holberton School 
+more python classes that will need a retouch.
