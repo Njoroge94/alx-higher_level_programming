@@ -1,6 +1,0 @@
-A
-77;30200;0c#!/usr/bin/python3
-import random
-number = random.randint(-10000, 10000)
-lastNo = number % 10
-print(lastNo)
